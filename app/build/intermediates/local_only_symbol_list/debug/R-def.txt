@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color card_background
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color layout_background
+color text_hint
+dimen base_grid_size
+dimen doub_grid_size
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id age
+id buttonCalc
+id et1
+id name
+id topTitle
+id username
+layout activity_main
+layout activity_nav
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Welcome_title
+string app_name
+style AppTheme

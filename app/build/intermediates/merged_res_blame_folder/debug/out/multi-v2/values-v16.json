@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ncorti.kotlin.template.app-mergeDebugResources-54:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\I569380\\.gradle\\caches\\transforms-4\\4bb299185c41e3542df787b4e060f92f\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\I569380\\.gradle\\caches\\transforms-4\\343d95f2a83201c56e8914dbfdcd12cd\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

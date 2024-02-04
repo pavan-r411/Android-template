@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ncorti.kotlin.template.app-mergeDebugResources-55:/layout/activity_main.xml",
+        "source": "com.ncorti.kotlin.template.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ncorti.kotlin.template.app-mergeDebugResources-55:/layout/activity_nav.xml",
+        "source": "com.ncorti.kotlin.template.app-main-58:/layout/activity_nav.xml"
+    }
+]
